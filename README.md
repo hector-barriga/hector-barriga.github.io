@@ -20,11 +20,9 @@
 ### (Dis)similarities of coffee shops in Paris, Manhattan, and Toronto 
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
-Completed the "IBM Data Science with Python" certification including an extensive coursework in Data Science using Python and SQL.
+Completed the "IBM Data Science with Python" certification including an extensive coursework in Data Science using **Python** and **SQL**.
 Used the Fourth Square app to collect venue data, and applied relational database in a cloud API. Performed data analytics and visualization. 
 Used machine learning models to compar (dis)similarities of clusters of venues.
-
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
@@ -36,12 +34,23 @@ Visualized and presented data, and applied statistical methods such as regressio
 
 ### Minimizing fee transactions in the Lightning Network
 Joint collaboration in progress to minimized cost transactions in the scheme of lightning network of Bitcoin.
-Simulated models with prefabricated graphs using Python.
+Simulated models with prefabricated graphs using **machine learning**'s tools in Python.
 Implemented algorithms for model's solution.
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
-## Talks & Lectures
+## Lectures @ UNC Charlotte
+- Elements of Statistics I - Spring 2024, Summer 2024
+- Calculus III - Fall 2021, Spring 2022, Fall 2023
+- Matrices and Linear Algebra - two sections Summer 2022, Fall 2022, Spring 2023, Summer 2023
+- Calculus II - Fall 2020, Spring 2021, two groups Spring 2022, Summer 2023
+- Calculus I - Spring 2021, Fall 2021, Spring 2022
+- Precalculus - two sections Fall 2020, Fall 2021
+- Advanced Multivariable Calculus - Fall 2021
+- Business Calculus - Spring 2021
+- Differential Equations - Fall 2020, Spring 2021
+
+
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
 - Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
 - Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
