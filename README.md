@@ -4,8 +4,8 @@
 
 ## Education
 - Ph.D., Mathematics | National Autonomous University of Mexico (_May 2020_)								       		
-- M.S., Mathematics	|  National Autonomous University of Mexico (_January 2015_)	 			        		
-- B.S., Mathematics and Computer Sciences | Michoacan University, Mexico (_August 2013_)
+- M.S., Mathematics	 |  National Autonomous University of Mexico (_January 2015_)	 			        		
+- B.S., Mathematics & Computer Sciences  | Michoacan University, Mexico (_August 2013_)
 
 ## Work Experience
 **Mathematics and Statistics Instructor @ UNC Charlotte (_September 2020 - Present_)**
@@ -28,10 +28,16 @@ Developed objective strategy for discovering optimal EEG bands based on signal p
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
+### Statistics with R
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+Used **R** and **Microsoft Excel** to built a Statistics comprehensive course for college students. 
+Visualized and presented data, and applied statistical methods such as regression models and testing hypothesis.
+
+### Minimizing fee transactions in the Lightning Network
+Joint collaboration in progress to minimized cost transactions in the scheme of lightning network of Bitcoin.
+Simulated models with prefabricated graphs using Python.
+Implemented algorithms for model's solution.
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
