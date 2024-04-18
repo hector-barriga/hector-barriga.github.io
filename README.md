@@ -8,13 +8,13 @@
 - B.S., Mathematics and Computer Sciences | Michoacan University, Mexico (_August 2013_)
 
 ## Work Experience
-**Data Scientist @ Toyta Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Mathematics and Statistics Instructor @ UNC Charlotte (_September 2020 - Present_)**
+- Taught a broad range of mathematics course curriculum to college students
+- Built textbook and digital courseware.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Researcher Fellowship @ UNC Charlotte (_September 2022 - Present_)**
+- Conducted research on the foundation of mathematics and optimization models.
+- Organized the departmental local seminar of international scope.
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
