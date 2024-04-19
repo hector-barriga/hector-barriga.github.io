@@ -60,7 +60,7 @@ Implemented algorithms for model's solution.
 4. Barriga H., Brian W., Dow A. On Roitman's principles MH and $\Delta$. Submitted to Israel Journal of Mathematics
 5. Barriga H., Dow A. On the weak pseudoradiality of CSC spaces. Fundamenta Mathematicae 258 (2022): 249-264
 6. Barriga H., Gartside P. Box and nabla products that are $D$-spaces. Indagationes Mathematicae (2023), https://doi.org/10.1016/j.indag.2023.04.002
-7. Barriga H., Gartside P., Monotone normality and nabla-products. Fundamenta Mathematicae 254 (2021), 99-120
+7. Barriga H., Gartside P. Monotone normality and nabla-products. Fundamenta Mathematicae 254 (2021), 99-120
 8. Barriga H., Hernandez F. $\mathfrak{c}$-many types of a $\Psi$-space. Topology and Its Applications, 253 (2019), 1-6
 9. Barriga H., Morales I. Mathematical Memories of PCCM, 2017. Compilation of a sequence of lectures given by students and professors from the PCCM UNAM-UMSNH in 2017
 10. Barriga H., Hernandez F. On discretely generated box products. Topology and Its Applications, 210 (2016), 1-7
