@@ -65,3 +65,4 @@ Implemented algorithms for model's solution.
 9. Barriga H., Morales I. Mathematical Memories of PCCM, 2017. Compilation of a sequence of lectures given by students and professors from the PCCM UNAM-UMSNH in 2017
 10. Barriga H., Hernandez F. On discretely generated box products. Topology and Its Applications, 210 (2016), 1-7
 
+Also visit [ArXiv: Hector Barriga Acosta](https://arxiv.org/search/math?searchtype=author&query=Barriga-Acosta,+H+A)
