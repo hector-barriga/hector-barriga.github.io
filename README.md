@@ -47,7 +47,6 @@ Joint collaboration in progress to minimized cost transactions in the scheme of 
 Simulated models with prefabricated graphs using **machine learning**'s tools in Python.
 Implemented algorithms for model's solution.
 
-![Bike Study](/assets/img/bike_study.jpeg)
 
 ## Lectures @ UNC Charlotte
 - Elements of Statistics I - Spring 2024, Summer 2024
@@ -60,7 +59,6 @@ Implemented algorithms for model's solution.
 - Business Calculus - Spring 2021
 - Differential Equations - Fall 2020, Spring 2021
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
 ## Publications
 
