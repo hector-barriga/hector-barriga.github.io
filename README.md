@@ -12,19 +12,19 @@
 - Taught a broad range of mathematics course curriculum to college students
 - Built textbook and digital courseware.
 
-**Researcher Fellowship @ UNC Charlotte (_September 2022 - Present_)**
+**Postdoctoral Fellow @ UNC Charlotte (_September 2022 - Present_)**
 - Conducted research on the foundation of mathematics and optimization models.
 - Organized the departmental local seminar of international scope.
 
 ## Projects
-### (Dis)similarities of coffee shops in Paris, Manhattan, and Toronto 
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
-
+### [(Dis)similarities of coffee shops in Paris, Manhattan, and Toronto]
+[Linked in Post](https://www.linkedin.com/pulse/dissimilarities-coffee-shops-paris-manhattan-toronto-barriga-acosta/?trackingId=JJ6HehaLmf%2B%2F9ES20MKl7g%3D%3D)
+[GitHub Code]
 Completed the "IBM Data Science with Python" certification including an extensive coursework in Data Science using **Python** and **SQL**.
 Used the Fourth Square app to collect venue data, and applied relational database in a cloud API. Performed data analytics and visualization. 
 Used machine learning models to compar (dis)similarities of clusters of venues.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+[See also the code at GitHub](/Images/Paris.jpg)
 
 ### Statistics with R
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
