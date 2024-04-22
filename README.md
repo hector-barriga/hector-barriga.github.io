@@ -39,7 +39,7 @@ Used **R** and **Microsoft Excel** to built a Statistics comprehensive course fo
 Visualized and presented data, and applied statistical methods such as regression models and testing hypothesis.
 
 <p align="center">
-  <img width="300" height="200" src="https://github.com/hector-barriga/STAT1220-UNCC/blob/main/Images/FrequencyHeight.png">
+  <img width="150" height="100" src="https://github.com/hector-barriga/STAT1220-UNCC/Images/FrequencyHeight.png">
 </p>
 
 ### Minimizing fee transactions in the Lightning Network
