@@ -26,9 +26,9 @@ Used the Fourth Square app to collect venue data, and applied relational databas
 Used machine learning models to compar (dis)similarities of clusters of venues.
 
 <p align="center">
-      <img width="300" height="200" src="/Images/NY.png" align="left">
-      <img width="300" height="200" src="/Images/Paris.png">
-      <img width="300" height="200" src="/Images/Toronto.png" align="right">
+      <img width="100" height="70" src="/Images/NY.png" align="left">
+      <img width="100" height="70" src="/Images/Paris.png">
+      <img width="100" height="70" src="/Images/Toronto.png" align="right">
 </p>
 
 ### Statistics with R
