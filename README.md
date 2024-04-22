@@ -19,9 +19,8 @@
 ## Projects
 ### (Dis)similarities of coffee shops in Paris, Manhattan, and Toronto
 
-[LinkedIn Post](https://www.linkedin.com/pulse/dissimilarities-coffee-shops-paris-manhattan-toronto-barriga-acosta/?trackingId=JJ6HehaLmf%2B%2F9ES20MKl7g%3D%3D)
-
-[GitHub Code](https://github.com/hector-barriga/-Dis-similarities-of-coffee-shops-in-Paris-Manhattan-and-Toronto)
+[LinkedIn Post](https://www.linkedin.com/pulse/dissimilarities-coffee-shops-paris-manhattan-toronto-barriga-acosta/?trackingId=JJ6HehaLmf%2B%2F9ES20MKl7g%3D%3D)      
+      [GitHub Code](https://github.com/hector-barriga/-Dis-similarities-of-coffee-shops-in-Paris-Manhattan-and-Toronto)
 
 Completed the "IBM Data Science with Python" certification including an extensive coursework in Data Science using **Python** and **SQL**.
 Used the Fourth Square app to collect venue data, and applied relational database in a cloud API. Performed data analytics and visualization. 
