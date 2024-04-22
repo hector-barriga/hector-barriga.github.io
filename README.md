@@ -27,7 +27,9 @@ Completed the "IBM Data Science with Python" certification including an extensiv
 Used the Fourth Square app to collect venue data, and applied relational database in a cloud API. Performed data analytics and visualization. 
 Used machine learning models to compar (dis)similarities of clusters of venues.
 
-![Paris map](/Images/Paris.png)
+<p align="center">
+  <img width="460" height="300" src="/Images/Paris.png">
+</p>
 
 ### Statistics with R
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
