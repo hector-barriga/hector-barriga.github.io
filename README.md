@@ -32,8 +32,10 @@ Used machine learning models to compar (dis)similarities of clusters of venues.
       <img width="300" height="200" src="/Images/Paris.png">
       <img width="300" height="200" src="/Images/Toronto.png" align="right">
 </p>
+
 ### Statistics with R
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+
+[GitHub Course](https://github.com/hector-barriga/STAT1220-UNCC)
 
 Used **R** and **Microsoft Excel** to built a Statistics comprehensive course for college students. 
 Visualized and presented data, and applied statistical methods such as regression models and testing hypothesis.
