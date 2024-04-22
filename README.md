@@ -38,7 +38,9 @@ Used machine learning models to compar (dis)similarities of clusters of venues.
 Used **R** and **Microsoft Excel** to built a Statistics comprehensive course for college students. 
 Visualized and presented data, and applied statistical methods such as regression models and testing hypothesis.
 
-![Frequency Height](https://github.com/hector-barriga/STAT1220-UNCC/blob/main/Images/FrequencyHeight.png)
+<p align="center">
+  <img width="150" height="200" src="https://github.com/hector-barriga/STAT1220-UNCC/blob/main/Images/FrequencyHeight.png">
+</p>
 
 ### Minimizing fee transactions in the Lightning Network
 Joint collaboration in progress to minimized cost transactions in the scheme of lightning network of Bitcoin.
