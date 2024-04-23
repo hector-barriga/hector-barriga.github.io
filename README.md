@@ -26,9 +26,9 @@ Used the Fourth Square app to collect venue data, and applied relational databas
 Used machine learning models to compar (dis)similarities of clusters of venues.
 
 <p align="center">
-      <img width="100" height="70" src="/Images/NY.png" align="left">
-      <img width="100" height="70" src="/Images/Paris.png">
-      <img width="100" height="70" src="/Images/Toronto.png" align="right">
+      <img width="150" height="90" src="/Images/NY.png" align="left">
+      <img width="150" height="90" src="/Images/Paris.png">
+      <img width="150" height="90" src="/Images/Toronto.png" align="right">
 </p>
 
 ### Statistics with R
@@ -39,7 +39,7 @@ Used **R** and **Microsoft Excel** to built a Statistics comprehensive course fo
 Visualized and presented data, and applied statistical methods such as regression models and testing hypothesis.
 
 <p align="center">
-  <img width="150" height="100" src="/Images/FrequencyHeight.png">
+  <img width="150" height="120" src="/Images/FrequencyHeight.png">
 </p>
 
 ### Minimizing fee transactions in the Lightning Network
