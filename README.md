@@ -1,6 +1,7 @@
 # Portfolio
 
-#### Technical Skills: Python, SQL, R, MATLAB
+## Technical Skills: 
+### Python, SQL, R, MATLAB
 
 ## Education
 - Ph.D., Mathematics | National Autonomous University of Mexico (_May 2020_)								       		
